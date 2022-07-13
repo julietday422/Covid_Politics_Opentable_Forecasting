@@ -25,11 +25,15 @@ The data analyzed is a daily percent change, year-over-year comparison, with 201
 
 This analysis used data published by OpenTable to compare the number of restaurant reservations in 6 cities: Phoenix, Arizona (R); Miami, Florida (R); Dallas, Texas (R); New York City (D); Los Angeles, California (D); New Orleans, Louisiana (D).
 
-### Negative Average Change in Reservations Since 2019
+### Negative Average % Change in Reservations Since 2019
 
 ![average_ _change](https://user-images.githubusercontent.com/100893109/178285999-c4ac46df-57aa-49af-b097-68d19af073a8.png)
 
 As shown in this graph, the three Democratic cities, New York, Los Angeles, and New Orleans, have been hit significantly harder, with a 46%-65% average decrease in reservations, compared to the three Republican cities, Dallas, Phoenix, and Miami which only had a 7%-28% decrease. 
+
+### Average % Change in Reservations in 2022
+
+Looking at just 2022, the six cities have the same order of average % change, with NYC having the most significant decrease. However, Miami and Phoenix have a positive difference in reservations in 2022 from the 2019 baseline, and Dallas has a much smaller average loss. The three Democratic cities still have a significant decrease in the number of reservations, however, throughout 2022, it is 19%-46% as opposed to 46%-65% over the entire 2.5 years since Covid began.
 
 ### Total Number of Reservations for Each Percent Change Since 2019:
 
@@ -38,6 +42,7 @@ As shown in this graph, the three Democratic cities, New York, Los Angeles, and 
 All six cities are plotted on the same scale, with -1 to 0.6 on the X-Axis (the highest and lowest percent change) and 0-35 on the Y-Axis (the highest and lowest total # of weeks for each percent change).
 
 Cities that have histograms with values above 0 are cities that have (at any point since 2019) had more reservations week-over-week since 2019. Phoenix (R) and Miami (R) have the highest values, with up to 50% more reservations at some points since 2019. New York City (D) does not have any data points above 0, and New Orleans (D), Los Angeles (D), and  Dallas (R) have very few points above 0.
+
 
 ### Reservations Over Time per City:
 
@@ -66,7 +71,7 @@ With the exception of Miami, the Republican cities have higher forecasting means
 
 
 # Conclusion
-Although the model's predictions were not very strong, the other data analysis can be helpful for the National Restaurant Association. As we saw in the "Average % Change since 2019" graph, all six cities had an average decrease in reservations between 7%-65%, with the 3 Democratic cities having a much more significant % loss. 
+Although the model's predictions were not very strong, the other data analysis can be helpful for the National Restaurant Association. As we saw in the "Average % Change in 2022" graph, Miami and Phoenix are the only cities with positive average % changes in 2022, and Dallas, as well as the 3 Democratic cities, had negative average % changes, with NYC having having the largest % loss. 
 
 Because the National Restaurant Association does not have the authority to impact Covid restrictions imposed on restaurants, they can instead use these findings to determine how to help restaurants in different cities overcome the restrictions. As these findings show, Democratic cities will need more help recovering from Covid because of the restrictions they endured. These resources could be in the form of financial assistance, marketing resources, consumer trends, and resources to help track inventory and cost of goods to optimize their profit.
 
