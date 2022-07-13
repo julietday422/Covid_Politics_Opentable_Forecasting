@@ -86,13 +86,11 @@ Because the National Restaurant Association does not have the authority to impac
 6) Lastly, more data would be necessary to create an accurate model. Short of waiting for more data, if I had the data from before 2019, that could also help to predict the future. Another way to have more usable data would be to combine the reservation data for all the Democratic cities analyzed and all the Republican cities analyzed to compare the two groups as a whole.
 7) This data can also be graphed on Tableau to have a user interface that the National Restaurant Association or restaurants in these cities can use to see the forecasting.
 
+#### Final Notebook: https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Project_notebook.ipynb
+#### Presentation: https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Presentation.pdf
+
 ## Disclaimer: 
 I am not affiliated with OpenTable or the National Restaurant Association in any way and do not have any legal rights to the logo.
-
-## Final Notebook: 
-#### https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Project_notebook.ipynb
-## Presentation: 
-#### https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Presentation.pdf
 
 ## Repository Navigation
 ```bash
