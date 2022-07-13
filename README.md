@@ -89,6 +89,9 @@ Because the National Restaurant Association does not have the authority to impac
 ## Disclaimer: 
 I am not affiliated with OpenTable or the National Restaurant Association in any way and do not have any legal rights to the logo.
 
+## Final Notebook: https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Project_notebook.ipynb
+## Presentation: https://github.com/julietday422/Covid_Politics_Opentable_Forecasting/blob/main/Presentation.pdf
+
 ## Repository Navigation
 ```bash
 ├── Data  
