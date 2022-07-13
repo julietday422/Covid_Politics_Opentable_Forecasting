@@ -60,6 +60,7 @@ The mean absolute errors for the six models were between 5.65%-13.06%. However, 
 
 ### Forecasted Values:
 
+![Forecasting_mean_scores](https://user-images.githubusercontent.com/100893109/178802228-19547130-b273-4b5b-a943-9763b9e6a0b3.png)
 
 With the exception of Miami, the Republican cities have higher forecasting means than the Democratic cities, meaning these cities have bounced back more since Covid, however, the predictions for all 6 cities are above the baseline. It is important to note from this graph that even the highest percent change (Dallas) is less than 3% above the 2019 baseline, so the predictions for all 6 cities are fairly close to the 2019 values.
 
@@ -78,13 +79,14 @@ Because the National Restaurant Association does not have the authority to impac
 6) Lastly, more data would be necessary to create an accurate model. Short of waiting for more data, if I had the data from before 2019, that could also help to predict the future. Another way to have more usable data would be to combine the reservation data for all the Democratic cities analyzed and all the Republican cities analyzed to compare the two groups as a whole.
 7) This data can also be graphed on Tableau to have a user interface that the National Restaurant Association or restaurants in these cities can use to see the forecasting.
 
-Disclaimer: I am not affiliated with OpenTable or the National Restaurant Association in any way and do not have any legal rights to the logo.
+## Disclaimer: 
+I am not affiliated with OpenTable or the National Restaurant Association in any way and do not have any legal rights to the logo.
 
 ## Repository Navigation
-├── Data
-│   └── Opentable_dataset.csv.csv
-├── Presentation.pdf
-├── Images   
+├── Data  
+│   └── Opentable_dataset.csv.csv 
+├── Presentation.pdf 
+├── Images  
 │   └──Forecasts
 │        └── DAL_forecast.png
 │        └── LA_forecast.png
