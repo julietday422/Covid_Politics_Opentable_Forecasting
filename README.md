@@ -83,6 +83,7 @@ Because the National Restaurant Association does not have the authority to impac
 I am not affiliated with OpenTable or the National Restaurant Association in any way and do not have any legal rights to the logo.
 
 ## Repository Navigation
+```bash
 ├── Data  
 │   └── Opentable_dataset.csv.csv 
 ├── Presentation.pdf 
@@ -111,3 +112,4 @@ I am not affiliated with OpenTable or the National Restaurant Association in any
 ├── Project_notebook.ipynb
 ├── README.md
 ├── environment.yml
+```
