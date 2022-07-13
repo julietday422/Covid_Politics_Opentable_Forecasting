@@ -33,6 +33,8 @@ As shown in this graph, the three Democratic cities, New York, Los Angeles, and 
 
 ### Average % Change in Reservations in 2022
 
+![2022_Average_ _Change](https://user-images.githubusercontent.com/100893109/178813553-3fa90ac4-6503-4301-a3c1-9e3f755dba6e.png)
+
 Looking at just 2022, the six cities have the same order of average % change, with NYC having the most significant decrease. However, Miami and Phoenix have a positive difference in reservations in 2022 from the 2019 baseline, and Dallas has a much smaller average loss. The three Democratic cities still have a significant decrease in the number of reservations, however, throughout 2022, it is 19%-46% as opposed to 46%-65% over the entire 2.5 years since Covid began.
 
 ### Total Number of Reservations for Each Percent Change Since 2019:
@@ -107,7 +109,8 @@ I am not affiliated with OpenTable or the National Restaurant Association in any
 │        └── NOLA_final_model_test_preds.png
 │        └── NYC_final_model_test_preds.png
 │        └── PHO_final_model_test_preds.png
-├── └──Cities_mapped.png
+│   └──2022_Average_&_Change.png
+│   └──Cities_mapped.png
 │   └──Forecasting_mean_scores.png
 │   └──Health_vs_Economy_Scores.png
 │   └──Number_of_Reservations.png
