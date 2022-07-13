@@ -93,7 +93,6 @@ I am not affiliated with OpenTable or the National Restaurant Association in any
 ```bash
 ├── Data  
 │   └── Opentable_dataset.csv.csv 
-├── Presentation.pdf 
 ├── Images  
 │   └──Forecasts
 │        └── DAL_forecast.png
@@ -117,6 +116,7 @@ I am not affiliated with OpenTable or the National Restaurant Association in any
 │   └──Reservations_per_city.png
 │   └──average_&_change.png
 │   └──opentable-logo.png
+├── Presentation.pdf 
 ├── Project_notebook.ipynb
 ├── README.md
 ├── environment.yml
