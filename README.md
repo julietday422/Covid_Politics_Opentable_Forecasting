@@ -1,4 +1,4 @@
-# Opentable_Forecasting: Covid and Politics
+# Opentable Forecasting: Covid and Politics
 ![opentable-logo](https://user-images.githubusercontent.com/100893109/178285523-d947d8c2-e970-497d-bc85-a449544bbc45.png)
 
 When Covid-19 hit the United States in March of 2020, everyone was quarantined in their homes, and the economy ground to a halt. One of the industries hit hardest by Covid was the food and restaurant industry, causing many restaurants to permanently close. 
